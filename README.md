@@ -7,12 +7,10 @@
 </ul>
 
 <div>
-  <a href="https://github.com/danielspires" target="_blank">
+  <a href="https://github.com/danielspires" target="_blank"></a>
   <img height="190px" width="400px" src="https://github-readme-stats.vercel.app/api?username=danielspires&count_private=true&show_icons=true&locale=pt-br&theme=material-palenight&text_color=fff">
   <img height="190px" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielspires&layout=compact&locale=pt-br&theme=material-palenight&text_color=fff">
 </div>
-  
-  ###
   
 <div margin-top="50px">
   <img height="70px" width="70px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg">
