@@ -29,6 +29,7 @@
 </div>
 
 ![Snake animation](https://github.com/danielspires/danielspires/blob/output/github-contribution-grid-snake.svg)
+
 <!--
 **danielspires/danielspires** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
